@@ -4,7 +4,7 @@ MAINTAINER jeanimator@gmail.com
 
 # Install the appropriate software
 RUN yum -y update && yum -y groupinstall "Desktop" "X Window System" "Fonts"
-RUN yum -y install epel-release csh wget gedit file-roller gnome-system-monitor nautilus-open-terminal \
+RUN yum -y install epel-release redhat-lsb csh wget gedit file-roller gnome-system-monitor nautilus-open-terminal \
         libXp libXmu libXpm libXi libtiff libXinerama \
         elfutils gcc gstreamer-plugins-base.x86_64 gamin mesa-utils mesa-libGL-devel tcsh \
         xorg-x11-server-Xorg xorg-x11-server-Xvfb wget \
