@@ -1,4 +1,4 @@
-FROM centos:centos6
+FROM alexagency/centos6-desktop
 
 MAINTAINER marcus@abstractfactory.io
 
