@@ -4,5 +4,5 @@
 ### usage
 
 ```bash
-$ docker run -ti --rm mottosso/mayabase-centos
+$ docker run -ti --rm jeanim/mayabase-centos
 ```
