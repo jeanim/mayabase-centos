@@ -1,4 +1,4 @@
-alex-centos6-desktop
+maya-centos6-desktop
 ==========================
 
 - size: 1.79GB
