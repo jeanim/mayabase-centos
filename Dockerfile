@@ -1,4 +1,4 @@
-FROM centos:centos
+FROM centos:centos6
 
 MAINTAINER jeanimator@gmail.com
 
